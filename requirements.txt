@@ -1,0 +1,13 @@
+streamlit==1.36.0
+langchain==0.2.11
+langchain-core==0.2.26
+langchain-community==0.2.10
+langchain-text-splitters==0.2.2
+langchain-groq==0.1.6
+langchain-huggingface==0.0.3
+sentence-transformers==2.7.0
+torch
+faiss-cpu==1.12.0
+requests==2.32.3
+python-dotenv==1.0.1
+tf-keras
