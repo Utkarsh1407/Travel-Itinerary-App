@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-backend = "http://localhost:8000"  # Change for deployment
+backend = "https://travel-itinerary-app-1.onrender.com"  # Change for deployment
 
 st.title("🌍 Travel Itinerary Planner")
 
