@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from backend.rag_engine import TravelRAG
+from .rag_engine import TravelRAG
 
 app = FastAPI()
 rag = TravelRAG()
